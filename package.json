@@ -2,5 +2,8 @@
   "dependencies": {
     "@tensorflow/tfjs": "^4.2.0",
     "@tensorflow/tfjs-core": "^4.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
   }
 }
